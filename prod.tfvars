@@ -25,6 +25,7 @@ users = {
         end_time   = "2024-04-25T19:00:00"
       }
     ],
-    iam = true
+    iam = true,
+    data_role = true
   }
 }
