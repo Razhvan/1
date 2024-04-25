@@ -17,6 +17,6 @@ users = {
       }
     ],
     data_role = true,
-    iam       = true
+    iam       = false
   }
 }
